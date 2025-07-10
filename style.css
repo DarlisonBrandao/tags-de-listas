@@ -48,3 +48,11 @@ body{
   font-size: 40px;
     color: #FAC600;
 }
+
+li {
+    padding:2px 0;
+}
+
+li::marker{
+  color: #FAC600;
+}
